@@ -2596,11 +2596,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Invoice-RossumAutoVerification",
-      "projectName": "Invoice-RossumAutoVerification",
-      "projectPath": "C:\\Users\\libor\\Dropbox\\LK_docs\\Valuetools\\Zákazníci\\Benet Automotive\\Demo Process\\Invoice-AutoVerifyRossum\\.local",
+      "projectUniqueName": "Invoice-RossumAutoVerificationFiberpreg",
+      "projectName": "Invoice-RossumAutoVerificationFiberpreg",
+      "projectPath": "C:\\Users\\libor\\Dropbox\\LK_docs\\Valuetools\\Zákazníci\\Fiberpreg\\InvoiceProcess\\Invoice-AutoverifyROSSUM\\.local",
       "packagesPath": "C:\\Users\\libor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\libor\\Dropbox\\LK_docs\\Valuetools\\Zákazníci\\Benet Automotive\\Demo Process\\Invoice-AutoVerifyRossum\\.local"
+      "outputPath": "C:\\Users\\libor\\Dropbox\\LK_docs\\Valuetools\\Zákazníci\\Fiberpreg\\InvoiceProcess\\Invoice-AutoverifyROSSUM\\.local"
     },
     "frameworks": {
       "net461": {
