@@ -1,2 +1,0 @@
-﻿Invoice Number,Issue Date,Due Date,Account Number,Bank Code,IBAN,BIC/SWIFT,Payment Reference,Specific Symbol,Total Amount_Line,Due Amount,Total Without Tax,Total Tax,Currency,Vendor Name,Vendor Company ID,Vendor VAT Number,Customer Company ID,VAT Rate_Line
-713210048,2021-02-17,2021-03-17,2113475853,2700,CZ2427000000002113475909,BACXCZPP,,,4826.05,4826.05,4826.05,,eur,"Kordcarbon, a.s.",05438837,CZ05438837,307526754,
